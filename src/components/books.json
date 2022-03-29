@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Book Number One",
+      "descr": "Some about book one"
+    },
+    {
+      "id": 2,
+      "title": "Book Number Two",
+      "descr": "Some about book two"
+    },
+    {
+      "id": 3,
+      "title": "Book Number three",
+      "descr": "Some about book three"
+    },
+    {
+      "id": 4,
+      "title": "Book Number Four",
+      "descr": "Some about book four"
+    }
+  ]
+}
